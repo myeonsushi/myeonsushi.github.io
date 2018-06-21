@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NotInWonderland</title>
+  
+  <subtitle>欢迎光临~ Welcome~</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-06-21T15:14:37.682Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>bmesl</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Me</title>
+    <link href="http://yoursite.com/2018/06/21/Me/"/>
+    <id>http://yoursite.com/2018/06/21/Me/</id>
+    <published>2018-06-21T14:32:29.000Z</published>
+    <updated>2018-06-21T15:14:37.682Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于我-About-Me"><a href="#关于我-About-Me" class="headerlink" title="关于我 About Me"></a>关于我 About Me</h1><p>大家好，我是 @bmesl / @czhao / @myeonsushi （不好意思网名太多了）<br>欢迎来到我的博客，其实没什么好看的。我会尽量中英对照的，会使用简体中文，因为考虑到有些朋友不会看繁体字，而会看繁体的都会看简体 xD<br>Hello, I’m @bmesl / @czhao / @myeonsushi (I have a lot of names)<br>Welcome to my blog, which is not very interesting xD. I’ll try to write in both English and Chinese~ I’m going to use Simplified Chinese here, since some of my friends can’t read Traditional Chinese, and my Traditional Chinese friends can read Simplified Chinese (quite ironically).</p><h2 id="介绍-Intro"><a href="#介绍-Intro" class="headerlink" title="介绍 Intro"></a>介绍 Intro</h2><p>为什么要搞这个博客啊？我是想当成日记 / 读书笔记 / 偶尔发泄心情的。</p><p>在这里说说我自己。<br>是个笨蛋，也不好看。<br>喜欢黑色（其实是 iPhone 8 / iPhone X 的 Space Gray，或者是 iPhone 7 的 Jet Black）。<br>喜欢大白兔奶糖。<br>喜欢研究和探讨关于科技的问题，是个 Apple 爱好者（别说 “果粉” 了好么）。<br>喜欢 EXO 的队长 Suho。独一无二的金俊勉。<br>喜欢的城市是日本的广岛 (Hiroshima) 和法国的阿卡雄 (Arcachon)。<br>喜欢伪装。<br>时不时会抑郁，但是也没办法啊。</p><p>不喜欢付出的努力和回报不成正比，也不喜欢看到不努力的人得到不应该属于他们的回报。<br>不喜欢别人觉得自己很了解我。<br>不喜欢摸我的人。<br>不喜欢别人说 “算了吧”、“没啥了”、“我知道你很棒”、“至少你比我好”。</p><p>害怕蜜蜂、蝴蝶……其实就是会飞的动物。<br>害怕太大的狗。<br>害怕面对某些家人。</p><p>现在在用的设备有：<br>标配版 MacBook Pro (13-inch, 2017, with Touch Bar)<br>Apple Watch Series 3 (Aluminium, 42mm)<br>Kindle Paperwhite<br><em>发现自己浪费在手机上的时间太多了，现在在尝试戒掉。</em></p><p><strong>以上的好像太难翻译了，对不起大家哈哈哈</strong></p><p></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;关于我-About-Me&quot;&gt;&lt;a href=&quot;#关于我-About-Me&quot; class=&quot;headerlink&quot; title=&quot;关于我 About Me&quot;&gt;&lt;/a&gt;关于我 About Me&lt;/h1&gt;&lt;p&gt;大家好，我是 @bmesl / @czhao / @myeo
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/05/22/hello-world/"/>
+    <id>http://yoursite.com/2018/05/22/hello-world/</id>
+    <published>2018-05-22T14:59:48.762Z</published>
+    <updated>2018-05-23T10:59:16.972Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post”</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
