@@ -1,4 +1,2 @@
 # myeonsushi.github.io
-My Blog. 
-
-我的博客。
+Repository of untold stories.
